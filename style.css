@@ -1,0 +1,7 @@
+.navbar-dark,.navbar[data-bs-theme=dark] {
+    --bs-navbar-color: rgba(255, 255, 255, 1000);
+}
+
+.h-img{
+    height: 400px!important;
+}  
