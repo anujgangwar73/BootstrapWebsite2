@@ -5,3 +5,18 @@
 .h-img{
     height: 400px!important;
 }  
+.carousel-indicators [data-bs-target] {
+    margin-top: 2rem;
+    width: .7rem;
+    height: .7rem;
+    background-color: #1089ff;
+}
+hr {
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 2px;
+    background: black!important;
+    margin-bottom: 50px;
+    opacity: 1 !important;;
+}
